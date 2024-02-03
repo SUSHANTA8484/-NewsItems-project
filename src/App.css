@@ -1,7 +1,9 @@
 .App {
   text-align: center;
 }
-
+.backgrod-design{
+  background-color: black;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
@@ -35,4 +37,19 @@
   to {
     transform: rotate(360deg);
   }
+}
+.blank{
+  color: red;
+}
+.gapbtn{
+  display: flex;
+  justify-content: space-around;
+  text-align: center;
+}
+body{
+  background-image: url("newsback.jpg");
+}
+.gontdesign{
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-weight: 600;
 }

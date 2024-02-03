@@ -11,3 +11,17 @@ const reportWebVitals = onPerfEntry => {
 };
 
 export default reportWebVitals;
+//  {/* <div className="row">
+//         <div className="col-md-3">
+//         <Newsitems   />
+//         </div>
+//         <div className="col-md-3">
+//         <Newsitems />
+//         </div>
+//         <div className="col-md-3">
+//         <Newsitems />
+//         </div>
+//         <div className="col-md-3">
+//         <Newsitems />
+//         </div> */}
+//       {/* </div> */}
